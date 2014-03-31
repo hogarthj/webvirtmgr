@@ -80,7 +80,7 @@ if __name__ == '__main__':
                                 verbose=False,
                                 cert=CERT,
                                 key=None,
-                                ssl_only=False,
+                                ssl_only=True,
                                 daemon=False,
                                 record=False,
                                 web=False,
